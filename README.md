@@ -3,3 +3,5 @@ The application contains two main classes HadoopMain and Main. The Main class is
 In HadoopMain class, we need to set the value for ITERATIONS, DATA_SIZE and CLUSTER_SIZE. ITERATIONS is for number of iterations the MapReduce algorithm should run. DATA_SIZE is for number of rows in /input/data.txt file (This value is used for identifying centroids). CLUSTER_SIZE is for number of clusters needed. 
 
 A sample data.txt file is also uploaded in the project folder. The values are set for the above constants for this file.
+
+My email is rsharsha@gmail.com or sravipat@buffalo.edu for any doubts regarding setuping the application.
